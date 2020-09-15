@@ -1,2 +1,2 @@
 # bdge-data
-Data for the BDGE repository dsevilla/bdge
+Data for the BDGE repository dsevilla/bdge.
